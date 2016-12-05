@@ -12,6 +12,8 @@ gem 'execjs'
 gem 'coffee-script-source', '1.8.0'
 gem 'rails',          '5.0.0.1'
 gem 'bootstrap-sass', '3.3.6'
+gem 'rails',          '5.0.0.1'
+gem 'bcrypt',         '3.1.11'
 
 group :development, :test do
   gem 'sqlite3', '1.3.12'
